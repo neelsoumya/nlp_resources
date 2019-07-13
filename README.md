@@ -18,5 +18,11 @@ Resources and teaching material for Natural Language Processing (NLP)
 
     https://bitbucket.org/neelsoumya/nlp_simple_examples
     
+    
+* Sequence modelling using deep learning by Andrew Ng
+
+    https://www.coursera.org/lecture/nlp-sequence-models/deep-rnns-ehs0S
+    
+    
 
 
