@@ -14,5 +14,9 @@ Resources and teaching material for Natural Language Processing (NLP)
     https://www.coursera.org/learn/natural-language-processing-tensorflow/lecture/O1bvl/a-conversation-with-andrew-ng
     
     
+* Some other code for NLP and text data munging using nltk
+
+    https://bitbucket.org/neelsoumya/nlp_simple_examples
+    
 
 
