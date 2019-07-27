@@ -25,4 +25,7 @@ Resources and teaching material for Natural Language Processing (NLP)
     
     
 
+* Tensorflow code for sequences (VERY GOOD)
 
+    https://www.tensorflow.org/tutorials/sequences/text_generation
+      
