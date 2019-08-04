@@ -1,0 +1,25 @@
+
+start from basics 
+
+look at words
+
+make it a clean dataset first
+
+Advice
+
+1) https://blog.insightdatascience.com/how-to-solve-90-of-nlp-problems-a-step-by-step-guide-fda605278e4e
+
+2) https://github.com/hundredblocks/concrete_NLP_tutorial/
+
+
+tokenizer converts to loer case and remove punctutation like !
+
+
+num_words or most common words is a parameter in tokenizer
+
+
+Stemming and lemmatization
+
+https://nlp.stanford.edu/IR-book/html/htmledition/stemming-and-lemmatization-1.html
+
+
