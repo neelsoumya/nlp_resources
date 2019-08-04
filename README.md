@@ -29,3 +29,9 @@ Resources and teaching material for Natural Language Processing (NLP)
 
     https://www.tensorflow.org/tutorials/sequences/text_generation
       
+
+* NLP tutorial
+
+    https://github.com/hundredblocks/concrete_NLP_tutorial/
+      
+      
