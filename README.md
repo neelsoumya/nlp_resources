@@ -35,6 +35,6 @@ Resources and teaching material for Natural Language Processing (NLP)
     https://github.com/hundredblocks/concrete_NLP_tutorial/
       
       
-* Data
+* Data (free and publicly available)
 
     https://www.figure-eight.com/data-for-everyone/  
