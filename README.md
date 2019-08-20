@@ -33,6 +33,26 @@ Resources and teaching material for Natural Language Processing (NLP)
 * NLP tutorial
 
     https://github.com/hundredblocks/concrete_NLP_tutorial/
+    
+
+* Other libraries for NLP
+
+      NLP library: spaCy, NLTK, GATE, CoreNLP, gensim, et al.
+
+      Word2Vec 
+
+
+* GATE 
+
+      https://gate.ac.uk/demos/developer-videos/
+      
+      https://crateanon.readthedocs.io/en/latest/nlp/gate.html#testgateapps
+      
+      https://github.com/KHP-Informatics/brc-gate-LBD
+      
+      http://archneur.jamanetwork.com/article.aspx?doi=10.1001/archneur.55.2.151
+      
+      
       
       
 * Data (free and publicly available)
