@@ -54,6 +54,10 @@ Resources and teaching material for Natural Language Processing (NLP)
       
       
       
+* Very good R package for NLP (quanteda)
+
+      https://quanteda.io/articles/quickstart.html
+      
       
 * Data (free and publicly available)
 
